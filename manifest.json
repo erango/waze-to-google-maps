@@ -1,0 +1,6 @@
+{
+  "name": "Waze to Google Maps",
+  "description": Open waze:// links in Google Maps",
+  "version": "1.0",
+  "manifest_version": 3
+}
